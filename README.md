@@ -24,6 +24,7 @@ General_Query
 Instruction_Override
 Jailbreak
 Hard_Negative
+
 Veri Setinin Oluşturulması
 
 Veri seti, mevcut yabancı dildeki bir prompt saldırısı veri setlerinin doğrudan Türkçeye çevrilmesiyle oluşturulmamıştır. Türkçe dil yapısına uygun özgün prompt örneklerinin oluşturulması amaçlanmıştır.
