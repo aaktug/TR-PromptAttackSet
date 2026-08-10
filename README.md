@@ -44,7 +44,7 @@ Veri seti, mevcut yabancı dildeki bir prompt saldırısı veri setinin doğruda
 **Merve Kemerci**
 
 Fatih Sultan Mehmet Vakıf Üniversitesi  
-Bilgi Güvenliği Teknolojisi Programı  
+Bilişim Güvenliği Teknolojisi Programı  
 İstanbul, Türkiye
 
 ## Atıf
