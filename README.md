@@ -36,16 +36,7 @@ TR-PromptAttackSet, Türkçe LLM prompt saldırılarının tespitine yönelik ol
 
 Veri seti, mevcut yabancı dildeki bir prompt saldırısı veri setinin doğrudan Türkçeye çevrilmesiyle oluşturulmamıştır. Türkçe dil yapısına uygun özgün prompt örneklerinin oluşturulması amaçlanmıştır.
 
-## Kullanım Amacı
 
-TR-PromptAttackSet aşağıdaki araştırma alanlarında kullanılmak üzere geliştirilmiştir:
-
-- LLM prompt saldırılarının tespiti
-- Prompt injection saldırılarının tespiti
-- Jailbreak saldırılarının tespiti
-- Makine öğrenmesi tabanlı güvenlik analizi
-- Türkçe LLM güvenliği
-- Açıklanabilir makine öğrenmesi
 
 ## Yazarlar
 
